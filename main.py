@@ -9,7 +9,7 @@ load_dotenv()
 
 st.title("AI Resume roaster")
 st.divider()
-st.badge("chai aur code")
+st.badge("Ready to roast")
 st.markdown("Upload your resume and get AI powered roasting")
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
